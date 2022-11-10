@@ -1,0 +1,24 @@
+{
+  "name": "server-template",
+  "version": "1.0.0",
+  "description": "express server template project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korybecker/server-template.git"
+  },
+  "author": "Kory Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korybecker/server-template/issues"
+  },
+  "homepage": "https://github.com/korybecker/server-template#readme",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security"
+  }
+}
