@@ -16,4 +16,3 @@ server.on('listening', () => {
 		`Listening on port ${server.address().port} in ${app.get('env')} mode.`
 	);
 });
-
